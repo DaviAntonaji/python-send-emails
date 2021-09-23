@@ -4,9 +4,11 @@
 ###### Hi, this project sends emails based on an HTML file with command line parameters using python. In this project you will see:
 
 - Environment variables in .env file
+- Passing Parameters via Command Line
 - HTML file reading
 - String Replacement
 - Sending emails
+- 
 
 ------------
 ##### Installation
