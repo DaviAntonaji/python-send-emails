@@ -8,7 +8,7 @@
 - HTML file reading
 - String Replacement
 - Sending emails
-- 
+
 
 ------------
 ##### Installation
